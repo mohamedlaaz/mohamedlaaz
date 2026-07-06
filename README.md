@@ -9,6 +9,5 @@ I'm a first-year Development student exploring the intersection of Software Engi
 - 🌱 I’m currently learning: **Advanced penetration testing, network protocols, and optimizing Python/Streamlit applications**.
 - 👯 I’m looking to collaborate on: **Open-source security projects, Python automation, and defensive tools.**
 - 💬 Ask me about: **Python, vulnerability analysis, and building terminal-based chatbots**.
-- 📫 How to reach me: **[Insert your email/LinkedIn]**
 - ⚡ Fun fact: **When I'm not coding or hunting bugs, you'll probably find me crushing a late-night sports session!**
 
