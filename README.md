@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 3346</h1>
 
 <h3 align="center">A passionate frontend developer from NED</h3>
-<img src = "https://i.pinimg.com/736x/52/63/ef/5263efb1dab473e7d64bf24cbf5ca1b4.jpg"/>
+<img src = "https://i.pinimg.com/originals/fd/c8/e7/fdc8e7325d1b7721762f43d328bbdddf.gif"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
