@@ -48,11 +48,9 @@ Your digital presence is under new management.
 
 <br><hr><br>
 
-<h2>Contribution</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="GitHub Contribution Graph">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="Contribution Graph">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TryHackMe-990000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+  <img src="https://img.shields.io/badge/Cyber_Security-Red?style=for-the-badge&logo=shield&logoColor=white" alt="Cyber Security">
 </div>
