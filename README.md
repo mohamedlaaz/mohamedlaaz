@@ -14,10 +14,10 @@
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td width="40%" align="center" valign="middle">
-      <img src="HNA_DIR_LIEN_DYAL_L_IMAGE_DYALK" width="85%" alt="Brain">
+      <img src="https://i.pinimg.com/1200x/92/20/47/9220479da58e140985555a65744084d4.jpg" width="85%" alt="Brain">
     </td>
     <td width="60%" valign="top">
-      <h3>Hey there! I'm [Smitk]</h3>
+      <h3>Hey there! I'm [3346]</h3>
       <p>I'm a Software Development student fueled by coffee and an unhealthy obsession with minimalist dark themes. By day, I pretend to understand the universe. By night, I write Python scripts to automate myself out of doing actual work. When I'm not coding, I'm usually crashing helicopters in GTA RP or practicing web penetration testing.</p>
     </td>
   </tr>
