@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm 3346</h1>
 
-<h3 align="center">A passionate frontend developer from NED</h3>
-<p>$ info --user hacker
+<h3 align="center">777</h3>
+<p align="center">$ info --user hacker
 > Skills: Python, Linux, Web Penetration Testing, Software Dev
 > Focus: Automating workflows, building terminal tools, and securing web apps.
 > Current Lab Status: Rooting machines and auditing code.</p>
-<img  src = https://i.pinimg.com/736x/78/a5/c1/78a5c126e6fb9e9addf9ea36e94abe6e.jpg width="1000"/>
+<img  src = https://i.pinimg.com/736x/78/a5/c1/78a5c126e6fb9e9addf9ea36e94abe6e.jpg width="1000" align="center"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
