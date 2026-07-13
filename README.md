@@ -58,7 +58,4 @@ Your digital presence is under new management.
   <br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohamedlaaz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff" alt="Mohamed's GitHub Stats" width="450">
 </div>
-<div align="center">
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedlaaz&theme=onedark&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" width="100%">
-</div>
+
