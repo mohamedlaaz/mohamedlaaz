@@ -25,26 +25,7 @@
 
 <br><hr><br>
 
-<h2>Top Projects (built to avoid manual labor)</h2>
 
-<table border="0" cellpadding="10" cellspacing="0" width="100%">
-  <tr>
-    <td width="70%" valign="top">
-      <p>
-        <a href="https://github.com/YOUR_USERNAME/PROJECT_NAME"><img src="https://img.shields.io/badge/FILEGHOST-Secure_Sharing-black?style=for-the-badge&logo=github" alt="Fileghost"></a>
-        <br>
-        Secure file sharing, because some code needs to self-destruct gracefully.
-      </p>
-      <p>
-        <a href="https://github.com/YOUR_USERNAME/PROJECT_NAME"><img src="https://img.shields.io/badge/GEN_GHOST_V1-Discord_Bot-black?style=for-the-badge&logo=github" alt="Gen Ghost"></a>
-        <br>
-        A Discord bot that manages my server better than I manage my sleep schedule.
-      </p>
-      <p>
-        <a href="https://github.com/YOUR_USERNAME/PROJECT_NAME"><img src="https://img.shields.io/badge/QN_DOCS-RAG_AI-black?style=for-the-badge&logo=github" alt="QN Docs"></a>
-        <br>
-        RAG-based AI to read text files for me, because reading is hard.
-      </p>
     </td>
     <td width="30%" align="center" valign="middle">
       <img src="HNA_DIR_LIEN_IMAGE_DYAL_L_GEL_OLA_FLAME" width="85%" alt="Flame">
