@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/14/5f/34/145f34e970f9a8304fd04d096df8bc78.jpg" alt="Synax Banner" width="100%">
+  <img src="https://i.pinimg.com/1200x/95/0e/02/950e02012ff03369895a5aa19d186eca.jpg" alt="Synax Banner" width="100%">
   <br><br>
 
   <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_USERNAME?style=for-the-badge&color=black" alt="Stars"></a>
