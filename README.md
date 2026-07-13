@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/ab/0f/10/ab0f10973aa7bd0589031dde73ab2775.jpg" alt="Synax Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Synaptara/Synaptara/main/banner.png" alt="Synax Banner" width="100%">
   <br><br>
 
   <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_USERNAME?style=for-the-badge&color=black" alt="Stars"></a>
@@ -36,9 +36,9 @@
         Secure file sharing, because some code needs to self-destruct gracefully.
       </p>
       <p>
-        <a href="https://github.com/YOUR_USERNAME/PROJECT_NAME"><img src="" alt="Gen Ghost"></a>
+        <a href="https://github.com/YOUR_USERNAME/PROJECT_NAME"><img src="https://img.shields.io/badge/GEN_GHOST_V1-Discord_Bot-black?style=for-the-badge&logo=github" alt="Gen Ghost"></a>
         <br>
-        contacte me in discord.
+        A Discord bot that manages my server better than I manage my sleep schedule.
       </p>
       <p>
         <a href="https://github.com/YOUR_USERNAME/PROJECT_NAME"><img src="https://img.shields.io/badge/QN_DOCS-RAG_AI-black?style=for-the-badge&logo=github" alt="QN Docs"></a>
