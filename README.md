@@ -36,9 +36,9 @@
         Secure file sharing, because some code needs to self-destruct gracefully.
       </p>
       <p>
-        <a href="https://github.com/YOUR_USERNAME/PROJECT_NAME"><img src="https://img.shields.io/badge/GEN_GHOST_V1-Discord_Bot-black?style=for-the-badge&logo=github" alt="Gen Ghost"></a>
+        <a href="https://github.com/YOUR_USERNAME/PROJECT_NAME"><img src="" alt="Gen Ghost"></a>
         <br>
-        A Discord bot that manages my server better than I manage my sleep schedule.
+        contacte me in discord.
       </p>
       <p>
         <a href="https://github.com/YOUR_USERNAME/PROJECT_NAME"><img src="https://img.shields.io/badge/QN_DOCS-RAG_AI-black?style=for-the-badge&logo=github" alt="QN Docs"></a>
