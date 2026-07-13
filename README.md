@@ -54,3 +54,7 @@ Your digital presence is under new management.
   <img src="https://img.shields.io/badge/TryHackMe-990000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
   <img src="https://img.shields.io/badge/Cyber_Security-Red?style=for-the-badge&logo=shield&logoColor=white" alt="Cyber Security">
 </div>
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedlaaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Mohamed's GitHub Stats" width="450">
+</div>
