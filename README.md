@@ -23,9 +23,6 @@
   </tr>
 </table>
 
-<br><hr><br>
-  </tr>
-</table>
 
 <br><hr><br>
 
