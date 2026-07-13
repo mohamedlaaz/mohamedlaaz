@@ -56,6 +56,5 @@ Your digital presence is under new management.
 </div>
 <div align="center">
   <br>
-  <!-- GitHub Stats Card b black style stable -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedlaaz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff" alt="Mohamed's GitHub Stats" width="450">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohamedlaaz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff" alt="Mohamed's GitHub Stats" width="450">
 </div>
