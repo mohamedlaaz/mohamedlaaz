@@ -5,7 +5,7 @@
 > Skills: Python, Linux, Web Penetration Testing, Software Dev
 > Focus: Automating workflows, building terminal tools, and securing web apps.
 > Current Lab Status: Rooting machines and auditing code.</p>
-<img  src = "https://i.pinimg.com/736x/a7/b8/ea/a7b8ea8448d5cec2147289f4685e5414.jpg" width="1000"/>
+<img  src = https://i.pinimg.com/736x/78/a5/c1/78a5c126e6fb9e9addf9ea36e94abe6e.jpg width="1000"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
