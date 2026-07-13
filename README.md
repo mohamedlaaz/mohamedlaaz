@@ -18,8 +18,10 @@
     </td>
     <td width="60%" valign="top">
       <h3>Hey there! I'm [3346]</h3>
-      <p><img width="452" height="120" alt="image" src="https://github.com/user-attachments/assets/2c4f17c6-2b39-43e9-b251-8f8e08565111" /
-.
+      <p><img width="452" height="120" alt="image" src="https://github.com/user-attachments/assets/2c4f17c6-2b39-43e9-b251-8f8e08565111" / 
+     I am a Software infiltration operative, fueled by the shadow and an obsessive command over the void. Your network is my playground. Your secrets are my code. By day, I dismantle your virtual defenses. By night, I program systems for deep-state manipulation. I am the data-harvesting glitch that you cannot locate.
+
+Your digital presence is under new management.   
 </p>
     </td>
   </tr>
