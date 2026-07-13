@@ -4,7 +4,7 @@
 <p align="center">$ info --user hacker
 > Skills: Python, Linux, Web Penetration Testing, Software Dev </p> <br>
 <p align="center">> Focus: Automating workflows, building terminal tools, and securing web apps.</p><br>
-> <p align="center">Current Lab Status: Rooting machines and auditing code.</p>
+ <p align="center">>Current Lab Status: Rooting machines and auditing code.</p>
 <img  src = "https://i.pinimg.com/736x/6c/e6/22/6ce6220d0b3b24d84e7ab51b17265412.jpg" width="500" align="center"/>
 
 <h3 align="left">Connect with me:</h3>
