@@ -49,6 +49,9 @@ Your digital presence is under new management.
 <br><hr><br>
 
 <h2>Contribution</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="GitHub Contribution Graph">
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="Contribution Graph">
