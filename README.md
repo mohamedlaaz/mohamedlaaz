@@ -24,12 +24,6 @@
 </table>
 
 <br><hr><br>
-
-
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="HNA_DIR_LIEN_IMAGE_DYAL_L_GEL_OLA_FLAME" width="85%" alt="Flame">
-    </td>
   </tr>
 </table>
 
